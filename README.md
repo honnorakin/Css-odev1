@@ -1,2 +1,58 @@
 # Css-odev1
 Css Odev1
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film</title>
+</head>
+<link rel="stylesheet" href="CSS/İlk.css">
+
+<body>
+
+    <h1>SEVDİĞİM FİLMLERaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h1>
+    <hr>
+    <article style="color:black">
+        
+        <a href="Film.html">Filmler </a>
+        <a href="Aktor.html">Aktörler</a>
+        <a href="Aktris.html">Aktrisler</a>
+
+    </article>
+
+    <hr>
+
+    </article>
+        <li>
+
+            <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2022/02/Man-on-the-Moon-1-2.jpg" height="400" alt="Man on the Moon"><br>
+             <a href="https://www.imdb.com/title/tt0125664/?ref_=ttmi_tt" target="_blank"><h2>Man on the Moon</h2></a>
+
+        </li>
+        <li>
+
+            <img src="https://cdn.onebauer.media/one/empire-tmdb/films/12159/images/6Gr7PeC4JGX7dlb5f0sjsdNwkCm.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill" height="355" alt="What Dreams May Come"><br>
+            <a href="https://www.imdb.com/title/tt0120889/?ref_=fn_al_tt_1" target="_blank"><h2>What Dreams May Come</h2></a>
+
+        </li>
+        <li>
+
+            <img src="https://i4.hurimg.com/i/hurriyet/75/1200x675/60095ce80f25443f0406f312.jpg" height="355" alt="Ipman"><br>
+            <a href="https://www.imdb.com/title/tt1220719/?ref_=fn_al_tt_1" target="_blank"><h2>Ipman</h2></a>
+
+        </li>
+
+    </article>
+
+
+
+ 
+
+
+
+    
+</body>
+</head>
+</html>
